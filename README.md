@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">* 🧑‍💻 Currently working part-time as a Software Engineer<br>* 📚 Computer and Communication Engineering Student<br>* 🎯 Goals: Take advantage of my time before graduating to Discover, Learn and Grow in different fields anticipating a bright career<br>* 🎲 Fun fact: I like to combine my engineering background and my coding skills in day-to-day activities</p>
+<p align="left">* 🧑‍💻 Currently working part-time as a Software Engineer<br>* 📚 Computer and Communication Engineering Student<br>* 🎯 Goals: Take advantage of my time before graduating to Discover, Learn and Grow in different fields anticipating a bright career
+<!--   <br>* 🎲 Fun fact: I like to combine my engineering background and my coding skills in day-to-day activities</p> -->
 
 ###
 
