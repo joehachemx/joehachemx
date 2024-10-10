@@ -2,12 +2,11 @@
 
 ###
 
-<p align="left">* 🧑‍💻 Currently working part-time as a Software Engineer<br>* 📚 Computer and Communication Engineering Student<br>* 🎯 Goals: Take advantage of my time before graduating to Discover, Learn and Grow in different fields anticipating a bright career
-<!--   <br>* 🎲 Fun fact: I like to combine my engineering background and my coding skills in day-to-day activities</p> -->
+<p align="left">* 🧑‍💻 Currently building personal projects - Looking for a Summer 2025 Internship<br>* 📚 Computer and Communication Engineering Student - Graduate in Spring 2026<br>* 🎯 Goals: Take advantage of my time before graduating to Discover, Learn and Grow in different fields anticipating a bright career<br>* 🔧 Learning Rust in my spare time<br>* You can find more about me <a href="https://joehachem.me">here</a>
 
 ###
 
-<h2 align="left">My Tech Stack</h2>
+<h2 align="left">My Relevant Tech Stack</h2>
 
 ###
 
@@ -28,12 +27,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
@@ -41,7 +34,7 @@
 
 ###
 
-<h2 align="left">I like to listen to music while working</h2>
+<h2 align="left">The only true indicator that I'm working</h2>
 
 ###
 
