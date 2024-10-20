@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🧑‍💻 Currently building personal projects - <strong>Looking for a Summer 2025 Internship</strong><br>📚 Computer and Communication Engineering Student - Graduates in Spring 2026<br>🎯 Taking advantage of my time before graduating to Discover, Learn and Grow in different fields anticipating a bright career<br>🔧 Learning Rust in my spare time<br>
+<p align="left">🧑‍💻 Currently building personal projects - <strong>Looking for a Summer 2025 Internship</strong><br>📚 Computer and Communication Engineering Student - <strong>Graduates in Spring 2026</strong>strong><br>🎯 Taking advantage of my time before graduating to Discover, Learn and Grow in different fields anticipating a bright career<br>🔧 Learning Rust in my spare time<br>
 
 <h4>You can find more about me <a href="https://joehachem.me">here</a><h4>
 
