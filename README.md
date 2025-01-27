@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🧑‍💻 Currently building IOLOKIS and personal projects - 📚 Computer and Communication Engineering Student - <strong>Graduates in Spring 2026</strong><br><br>🔧 Learning Rust in my spare time<br>
+<p align="left">🧑‍💻 Currently building IOLOKIS and personal projects | 📚 Computer and Communication Engineering Student | <strong>Graduates in Spring 2026</strong><be> | <br>🔧 Learning Rust in my spare time<br>
 
 <h4>You can find more about me <a href="https://joehachem.me">here</a><h4>
 
